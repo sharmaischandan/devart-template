@@ -1,8 +1,8 @@
 # Project Title
-Insert the name of your project
+Try Leather
 
 ## Authors
-- Insert main chandan, sharma, github account
+chandan, sharma, github account
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
